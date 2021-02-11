@@ -1,6 +1,6 @@
 # RESTful Resource Naming Conventions
 
-## CRUD on a resources
+## CRUD on a resource
 
 - Get a user with id `id` should be GET: `/users/{id}`
 - Create a new user should be POST: `/users`
